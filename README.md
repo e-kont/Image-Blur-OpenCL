@@ -4,7 +4,7 @@ Parallel Gaussian image blurring using OpenCL C.
 # Included files
 
 ## street_night.jpg
-Initial image expected to be blurred with gaussian_blur_separate_parallel() kernel function.
+Initial image expected to be blurred with gaussian_blur_separate_parallel() function.
 
 ## stb_image.h, stb_image_write.h
 C++ libraries for reading and writing images.
